@@ -1,4 +1,7 @@
-# Copy Current URL
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9742a802-1d69-4f9b-be20-c1317f5b0ef5" />
+
+
+# Copy Current URL (Chrome Extension)
 
 A tiny Chrome extension that brings Arc's **⌘⇧C → copy current URL** shortcut to Chrome. On success, a small "📋 URL copied! ✨" toast slides in at the top of the page.
 
